@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozymogit" alt="ozymogit" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ozymotv" target="blank"><img src="https://img.shields.io/twitter/follow/ozymotv?logo=twitter&style=for-the-badge" alt="ozymotv" /></a> </p>
 
