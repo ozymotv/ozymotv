@@ -18,6 +18,10 @@
 <a href="https://discord.gg/C3MY4kuAcD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="C3MY4kuAcD" height="30" width="40" /></a>
 </p>
 
-
 <h3 align="left">Support:</h3>
+
+USDT - TRX (TRON TRC-20): TChDBfpKwHPX7CLnqvtQGG7jr9jvaB5KWq
+
+BTC - BTC network: 1MnnTJBfdYEpeLgCFYf4NiMLg1UGRvijsz
+
 <p><a href="https://www.buymeacoffee.com/ozymotvz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ozymotvz" /></a><a href="https://ko-fi.com/ozymotv"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ozymotv" /></a></p><br><br>
